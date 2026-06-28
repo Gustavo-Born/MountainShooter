@@ -2,7 +2,7 @@ from pygame.examples.grid import WINDOW_HEIGHT
 
 # C
 COLOR_ORANGE = (255,128,0)
-C_WHITE = (255,255,255)
+COLOR_WHITE = (255,255,255)
 
 # M
 MENU_OPTIONS = ('NEW GAME 1P',
